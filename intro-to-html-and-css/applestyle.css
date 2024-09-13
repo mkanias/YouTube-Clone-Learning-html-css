@@ -1,0 +1,53 @@
+.new-word {
+    color: rgb(255, 106, 0);
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin-bottom: 2px;
+}
+
+.macbook-pro {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-weight: bold;
+    font-size: 25px;
+    margin-top: 5px;
+    margin-bottom: 2px;
+}
+
+.supercharged {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin-top: 2px;
+    margin-bottom: 10px;
+    font-size: 45px;
+}
+
+.price {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 2px;
+}
+
+.buy {
+    cursor: pointer;
+    align-items: center;
+    background-color: rgb(0, 102, 255);
+    padding-top: 7px;
+    padding-bottom: 7px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 30px;
+    font-weight: bold;
+    color: white;
+    border: none;
+    transition: box-shadow .2s;
+}
+
+.buy:hover {
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, .15);
+}
+
+.buy:active {
+    background-color: rgb(0, 64, 255);
+}
+
