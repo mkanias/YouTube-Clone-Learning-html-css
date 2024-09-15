@@ -4,6 +4,12 @@ p {
     margin-bottom: 0;
 }
 
+a {
+    text-decoration: none;
+    color: black;
+    
+}
+
 /* Styles will be inherited */
 body {
     font-family: Roboto, Arial;
